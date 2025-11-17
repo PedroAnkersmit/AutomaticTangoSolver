@@ -1,28 +1,26 @@
 # Automatic Tango Solver
 
-El proyecto consiste de una jupyter notebook y una app construida con flet.
+This small project includes a jupyter notebook and an app built with flet.
 
-## Installación
+## Install
 
-Es necesario tener instalado python y las siguientes dependencias:
+It is necessary to have python installed and the following dependencies:
  - NumPy
  - MatPlotLib
  - scipy
  - jupyter
  - flet
-Para instalar flet abre tu entorno virtual y ejecuta
+To install flet just open your venv and execute the following code:
 ```bash
 pip install flet
 ```
 
-## La app
- Para lanzar la aplicación tan sólo dirígete a la carpeta que la contiene y ejecuta el comando
-
+## The app
+ To run the app just go to the folder in which it is saved and execute this command:
 ```bash
 run flet
 ```
 
-## Contribuir
+## Contribute
 
-El código es de libre acceso y se encuentra en 
-[Github](https://github.com/PedroAnkersmit/AutomaticTangoSolver.git). Se puede utilizar y modificar dando siempre el crédito correspondiente.
+This code is open source. You are welcome to use and contribute always giving the proper credit.
